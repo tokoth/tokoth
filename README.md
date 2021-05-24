@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ecosia.org (the search engine which plants trees) & lagreenceramics.co.uk
-- 🌱 I’m currently learning intermediate python & GO
-- 👯 I’m looking to collaborate on projects that empower and amplify the voices of margonalised groups
-- 🤔 I’m looking for help with leveling up as a developer
-- 💬 Ask me about supporting those from non traditional backgrounds
-- 📫 How to reach me: DM me on Twitter my handle is sleepypioneer or find me in the pyladies slack as Jessica Greene
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I used to be a coffee roaster and before that a camera assitant for television, and I once served coffee to the late Sir Christopher Lee!
+- 🔭 I’m currently working on my GIS developer skills 
+- 🌱 I’m currently learning Automating GIS with python & geemap python package for interactive mapping
+- 👯 I’m looking to collaborate on projects that work with earth engine for environment and agriculture monitoring.
+- 🤔 I’m looking for help with leveling up as a GIS developer
+- 📫 How to reach me: DM me on Twitter my handle is @tyson_okoth
+- ⚡ Fun fact: My birthday is on National Hug Day and that's my stars aligning gift from my parents
