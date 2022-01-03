@@ -9,5 +9,4 @@
 - 🌱 I’m currently a novice levelling up in GIS and data processing with Python.
 - 👯 I’m looking to collaborate on projects that work with earth engine for environment and agriculture monitoring.
 - 🤔 I’m looking for help with leveling up as a GIS developer
-- 📫 How to reach me: on mail at tysonokoth8@gmail.com 
 - ⚡ Fun fact: My birthday is on National Hug Day and that's my stars aligning gift from my parents
