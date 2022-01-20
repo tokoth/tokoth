@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Data Analytics and Visualization.**
 
-- 👯 I’m looking to collaborate on **projects that work with free and open source data and solutions.**
+- 👯 I’m looking to collaborate on **projects that work with open source data and solutions.**
 
 - 🤝 I’m looking for help with **levelling up as a GIS and Data analyst developer.**
 
