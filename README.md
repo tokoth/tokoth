@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyson Okoth</h1>
 <h3 align="center">previously an Imagery Solutions Executive at Oakar Services Limited.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tokoth&label=Profile%20views&color=0e75b6&style=flat" alt="tokoth" /> </p>
 <p align="left"> <a href="https://twitter.com/tyson_okoth" target="blank"><img src="https://img.shields.io/twitter/follow/tyson_okoth?logo=twitter&style=for-the-badge" alt="tyson_okoth" /></a> </p>
 
 - 🔭 I’m currently working as **a freelance consultant in GIS and Data Analysis.**
