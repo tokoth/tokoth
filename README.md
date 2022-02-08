@@ -31,7 +31,9 @@
 
 `GIS ENVIRONMENT`
 
-![QGIS](https://img.shields.io/badge/-QGIS-yellowgreen), ArcGIS 10* versions, ArcGIS Pro, GeoMedia
+![QGIS](https://img.shields.io/badge/-QGIS-yellowgreen)
+
+ArcGIS 10* versions, ArcGIS Pro, GeoMedia
 
 `REMOTE SENSING`
 
