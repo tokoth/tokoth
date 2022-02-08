@@ -21,10 +21,10 @@
 ***
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tyson_okoth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyson_okoth" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/okoth-tyson-0968a9178/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okoth tyson" height="30" width="40" /></a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/tyson_okoth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tyson_okoth)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tysonokoth8@gmail.com)
 
 ***
 <h3 align="left">Languages and Tools:</h3>
