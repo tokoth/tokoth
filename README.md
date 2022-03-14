@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **a freelance consultant in GIS and Spatial Data Analysis.**
 
-- 🌱 I’m currently learning **Google Data Analytics Proffessional Certification in Cousera.**
+- 🌱 I’m currently learning **Google Data Analytics Professional Certificate in Cousera.**
 
 - 👯 I’m looking to collaborate on **projects that work with open source data and solutions.**
 
