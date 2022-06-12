@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tyson Okoth</h1>
 <h3 align="center">a GIS Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tokoth&label=Profile%20views&color=0e75b6&style=flat" alt="tokoth" /> <a href="https://twitter.com/tyson_okoth" target="blank"><img src="https://img.shields.io/twitter/follow/tyson_okoth?logo=twitter&style=for-the-badge" alt="tyson_okoth" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tokoth&label=Profile%20views&color=0e75b6&style=flat" alt="tokoth" /> <a href="https://twitter.com/tyson_okoth" target="blank"><img src="https://img.shields.io/twitter/follow/tyson_okoth?logo=twitter&style=for-the-badge" alt="tyson_okoth" /></a> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tysonokoth8@gmail.com) </p>
 
 ***
 
@@ -18,13 +19,6 @@
 - 📄 Know about my experiences [https://tokoth.github.io/portfolio/](https://tokoth.github.io/portfolio/)
 
 - ⚡ Fun fact: **My birthday is on National Hug Day and that's my stars aligning gift from my parents.**
-***
-
-<h3 align="left">Connect with me:</h3>
-
-[![Twitter](https://img.shields.io/badge/tyson_okoth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tyson_okoth)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tysonokoth8@gmail.com)
 
 ***
 <h3 align="left">Languages and Tools:</h3>
