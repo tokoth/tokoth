@@ -33,12 +33,12 @@ Google Earth Engine, Erdas IMAGINE, ENVI
 
 `PROGRAMMING & DATA ANALYSIS`
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 `EDITING, PRESENTATION & GRAPHICS`
 
@@ -47,4 +47,3 @@ Google Earth Engine, Erdas IMAGINE, ENVI
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ***
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tokoth&show_icons=true&locale=en" alt="tokoth" /></p>
